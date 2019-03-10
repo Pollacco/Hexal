@@ -1,1 +1,1 @@
-Comleted Hexal task [https://Pollacco.github.io/Hexal](https://Pollacco.github.io/Hexal)
+Completed Hexal task [https://Pollacco.github.io/Hexal/index.html](https://Pollacco.github.io/Hexal/index.html)
